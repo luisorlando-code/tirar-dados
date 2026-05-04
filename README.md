@@ -72,12 +72,10 @@ git clone https://github.com/tu-usuario/tu-repo.git
 
 ---
 
-## 📄 Licencia
+# 🌐 Sitio web
 
-Este proyecto es de uso libre para fines educativos.
-
+https://tirar-dados.vercel.app/
 ---
-
 ## 👨‍💻 Autor
 
 * Luis Orlando Flores Canizales
