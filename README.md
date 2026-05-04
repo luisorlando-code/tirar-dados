@@ -76,9 +76,5 @@ git clone https://github.com/tu-usuario/tu-repo.git
 
 https://tirar-dados.vercel.app/
 ---
-## 👨‍💻 Autor
 
-* Luis Orlando Flores Canizales
-
----
 
